@@ -18,12 +18,12 @@ Réalisée par OpenClassrooms, en partenariat avec l'ENSAE-ENSAI - école d'ing�
 
 ### Outils, languages et technologie mis en oeuvre :
 
- • Microsoft Excel: fonction avancée, tableaux croisés dynamiques, graphiques
- • PowerQuery : Manipuler, tranformer des données
- • SQL Power Architect : construction d'un schéma relationnel de données
- • postgreSQL / pgAdmin : création, implémentation d'une base de données, et requêtes complexes
- • Python : Jupyter Notebook (numpy, pandas, matplotlib, seaborn...)
- • Knime
- • Tableau
+ - Microsoft Excel: fonction avancée, tableaux croisés dynamiques, graphiques
+ - PowerQuery : Manipuler, tranformer des données
+ - SQL Power Architect : construction d'un schéma relationnel de données
+ - postgreSQL / pgAdmin : création, implémentation d'une base de données, et requêtes complexes
+ - Python : Jupyter Notebook (numpy, pandas, matplotlib, seaborn...)
+ - Knime
+ - Tableau
 
 
