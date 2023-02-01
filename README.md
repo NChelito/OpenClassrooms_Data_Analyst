@@ -2,7 +2,7 @@
 
 ## La formation
 
-Réalisée par OpenClassrooms, en partenariat avec l'ENSAE-ENSAI - école d'ingénieurs en statistique et data science - cette formation certifiante (bac +3/4) est basée sur la réalisation de projets concrets basés sur des mises en situation professionnelles.
+Réalisée par <a href="https://openclassrooms.com/fr/">OpenClassrooms</a>, en partenariat avec l'ENSAE-ENSAI - école d'ingénieurs en statistique et data science - cette formation certifiante (bac +3/4) s'appuie sur la réalisation de projets concrets basés sur des mises en situation professionnelles.
 
 ### Liste des projets :
 
