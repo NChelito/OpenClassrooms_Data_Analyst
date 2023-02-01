@@ -16,7 +16,7 @@ Réalisée par OpenClassrooms, en partenariat avec l'ENSAE-ENSAI - école d'ing�
  8. Produire une étude de marché.
  9. Détectez des faux billets.
 
-### Outils, languages et technologie mis en oeuvre :
+### Outils, languages et technologies mis en oeuvre :
 
  - Microsoft Excel: fonction avancée, tableaux croisés dynamiques, graphiques
  - PowerQuery : Manipuler, tranformer des données
